@@ -1,4 +1,4 @@
-![](UTA-DataScience-Logo.png)
+
 
 # Project Title
 
