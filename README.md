@@ -4,7 +4,8 @@
 # Project Title
 
 * **One Sentence Summary** Ex: This repository holds an attempt to apply LSTMs to Stock Market using data from
-"Get Rich" Kaggle challenge (provide link). 
+"Get Rich" Kaggle challenge (provide link).
+https://www.kaggle.com/competitions/nlp-getting-started/overview 
 
 ## Overview
 
