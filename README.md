@@ -1,8 +1,7 @@
 
 ![UTALOGO](https://github.com/randolphwanjiru/DSP3402/assets/107207718/7c99a2e5-fd3b-4572-9ec4-467c24b5030b)
 
-# Project Title
-
+# Natural Language Processing with Disaster tweets 
 * **One Sentence Summary** Ex: This repository holds an attempt to apply LSTMs to Stock Market using data from
 "Get Rich" Kaggle challenge (provide link).
 https://www.kaggle.com/competitions/nlp-getting-started/overview 
