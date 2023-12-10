@@ -1,4 +1,5 @@
 
+![UTALOGO](https://github.com/randolphwanjiru/DSP3402/assets/107207718/7c99a2e5-fd3b-4572-9ec4-467c24b5030b)
 
 # Project Title
 
